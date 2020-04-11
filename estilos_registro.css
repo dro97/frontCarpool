@@ -1,0 +1,178 @@
+body {
+  background: #1CA7F0;
+
+}
+  .titulo{
+    font-size: 40px;
+    font-family: monospace;
+    display: inline-block;
+    position: relative;
+  bottom: 80px;
+
+}
+
+
+.imagen{
+  position: relative;
+display: inline-block;
+bottom: 20px;
+}
+
+
+.barra{
+  width: 1920px;
+  height: 100px;
+position: fixed;
+  background: #325FDA;
+
+   }
+
+   .Registro{
+width: 600px;
+height: 800px;
+background: #73B8EB;
+position: relative;
+font-family: monospace;
+display: inline-block;
+left: 600px;
+top: 100px;
+
+   }
+   .Registro h1{
+font-size: 40px;
+font-family: monospace;
+position: relative;
+left: 180px;
+top: 40px;
+color: #3735B5;
+   }
+   .Registro label{
+     font-size: 20px;
+     font-family: monospace;
+     color: #3735B5;
+     position: relative;
+     top: 40px;
+     left: 100px;
+
+   }
+   .Registro input{
+     height: 20px;
+     position: relative;
+     left: 120px;
+     top: 30px;
+
+   }
+   .registro_u input{
+     position: relative;
+     left: 10x;
+     top: 40px;
+     width: 300px;
+
+   }
+.registro_em input{
+  position: relative;
+  left: 100px;
+  top: 40px;
+  width: 185px;
+}
+.registro_nick input{
+  position: relative;
+  top: 40px;
+  width: 320px;
+}
+.registro_tipou{
+  position: relative;
+  bottom : 20px;
+  top: 50px;
+  width: 600px;
+  background-color: #325FDA;
+  display: inline-block;
+}
+.registro_tipou h1{
+  font-size: 20px;
+  position: relative;
+  left: 150px;
+
+
+}
+.registro_tel input{
+  position: relative;
+  top: 40px;
+  width: 275px;
+}
+.registro_uni input{
+  position: relative;
+  top: 40px;
+  width: 240px;
+}
+.registro_ap input{
+  position: relative;
+  top: 40px;
+  width: 275px;
+}
+
+.checbo2{
+display: inline-block;
+  height: 100px;
+  width: 100px;
+  position: relative;
+  left: 300px;
+
+}
+.checbo2 input{
+  position: relative;
+  top: 50px;
+  left: 80px;
+}
+.checbo2 label{
+  position: relative;
+  left: 50px;
+}
+.checbo1{
+display: inline-block;
+height: 100px;
+width: 100px;
+position: relative;
+
+
+}
+
+.checbo1 input{
+position: relative;
+top: 50px;
+left: 80px;
+}
+.checbo1 label{
+  position: relative;
+left: 50px;
+}
+
+
+
+   .boton{
+     position: relative;
+     left: 110px;
+     top: 40px;
+
+   }
+   .boton input{
+     height: 30px;
+     width: 140px;
+     font-size: 20px;
+     font-family: monospace;
+     color: #C64D08;
+     background: #08B2C6;
+   }
+
+   .login{
+position: relative;
+left: 10px;
+top: 70px;
+
+   }
+  .login H3{
+    font-size: 20px;
+    font-family: monospace;
+    color: #3735B5;
+    text-align: center;
+  }
